@@ -22,7 +22,6 @@
   <img src="https://github.com/CodderPrince/Hangman1/blob/main/UI/Screenshot_20250807_224716.png" width="260" />
   <img src="https://github.com/CodderPrince/Hangman1/blob/main/UI/Screenshot_20250807_224740.png" width="260" />
   <img src="https://github.com/CodderPrince/Hangman1/blob/main/UI/Screenshot_20250807_224752.png" width="260" />
-  <img src="https://github.com/CodderPrince/Hangman1/blob/main/UI/Screenshot_20250807_224758.png" width="260" />
   <img src="https://github.com/CodderPrince/Hangman1/blob/main/UI/Screenshot_20250807_224805.png" width="260" />
   <img src="https://github.com/CodderPrince/Hangman1/blob/main/UI/Screenshot_20250807_224817.png" width="260" />
   <img src="https://github.com/CodderPrince/Hangman1/blob/main/UI/Screenshot_20250807_224830.png" width="260" />
